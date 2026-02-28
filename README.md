@@ -1,7 +1,6 @@
 Experience website at - https://kunalcodes447.github.io/Streamify/
 
 📌 Project Overview — Streamify (Video Player Website)
-
 Your repository is a simple static video-player website built with HTML and CSS, hosted on GitHub Pages. It looks like a custom UI that mimics a streaming platform interface where users can browse videos.
 
 The core of the project appears to be:
